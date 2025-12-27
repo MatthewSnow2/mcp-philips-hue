@@ -1,5 +1,5 @@
 {
-  "name": "philips-hue-mcp",
+  "name": "mcp-philips-hue",
   "version": "1.0.0",
   "description": "MCP server for Philips Hue smart lighting control",
   "main": "dist/index.js",

@@ -1,4 +1,4 @@
-# Philips Hue MCP Server
+# mcp-philips-hue
 
 An MCP (Model Context Protocol) server for controlling Philips Hue smart lights.
 
@@ -26,7 +26,7 @@ An MCP (Model Context Protocol) server for controlling Philips Hue smart lights.
 ## Installation
 
 ```bash
-cd philips-hue-mcp
+cd mcp-philips-hue
 npm install
 npm run build
 ```
